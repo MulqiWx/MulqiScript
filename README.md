@@ -1,5 +1,5 @@
 FACEBOOK-BRUTEFORCE
-MULQI - BRUTEFORCE FACEBOOK WITH WORDLIST ■■■■■ TOOLS TUAN B4DUT ■■■■■ ■■■■■■■ BRUTEFORCE FACEBOOK WITH WORDLIST ■■■■■■■
+MULQI - BRUTEFORCE FACEBOOK WITH WORDLIST ■■■■■ TOOLS MULQI ■■■■■ ■■■■■■■ BRUTEFORCE FACEBOOK WITH WORDLIST ■■■■■■■
 
 $apt upgrade && apt update $pkg install python2 git nano $pip2 install requests $git clone https://github.com/MulqiWx/MulqiScript $cd FACEBOOK-BRUTEFORCE
 
